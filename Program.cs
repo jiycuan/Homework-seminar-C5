@@ -59,7 +59,7 @@ void Zadacha36()
                         num = num + array[i];
                     }
             }
-        Console.WriteLine("Сумма нечетных элементов массива: " + num);
+        Console.WriteLine("Сумма нечетных элементов массива равна: " + num);
     }
 }
 
