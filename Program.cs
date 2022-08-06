@@ -34,7 +34,7 @@ void Zadacha34()
                         num++;
                     }
             }
-        Console.WriteLine("Количество четных чисел в массиве: " + num);
+        Console.WriteLine("Количество четных чисел в массиве равно: " + num);
         }
 
 
