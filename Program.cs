@@ -111,4 +111,4 @@ void Zadacha38()
 
 //Zadacha34();
 //Zadacha36();
-Zadacha38();
+//Zadacha38();
